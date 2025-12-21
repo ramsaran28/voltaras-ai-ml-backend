@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+scikit-learn
+google-cloud-bigquery
+google-cloud-storage
+python-dotenv
